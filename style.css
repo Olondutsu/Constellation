@@ -1,0 +1,53 @@
+body {
+	margin:0;
+	padding:0;
+	background:url("Nebuleuse_Gem.jpg") no-repeat fixed center;
+	background-size:cover;
+}
+
+a:hover
+{
+		border-left: 3px solid black;
+}
+h1 {
+	font-size: 74px;
+	text-align: center;
+}
+
+
+h1+p
+{
+	text-align: center;
+	font-size: xx-large;
+}
+
+
+Titre
+{
+
+	color: Black;
+
+}
+
+
+*
+{
+	color: White;
+}
+
+nav
+{
+	width: 20%;
+	border: 6px inset;
+	font-size: x-large;
+}
+
+section
+{
+	width: 300px;
+	margin: 170px;
+}
+footer
+{
+	text-align: center;
+}
